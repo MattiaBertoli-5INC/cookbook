@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # cookbook
 =======
 ##### commit 4000b4e1bb823c564e76eccf0c704c9d33c15296 (HEAD -> master)
@@ -24,5 +23,3 @@
 ##### **├─\[parent]─ 9dcd69c8cb5f9aef5aa823b18bdd0999e01aa5e2**
 
 ##### **└─\[author]─ mattia.bertoli <mattia.bertoli@buonarroti.tn.it> 1790678296 +0200**
-
->>>>>>> 03f1243 (moved files)
