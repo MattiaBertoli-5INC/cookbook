@@ -1,7 +1,7 @@
 # Apple Pie
 - Overview:
 	- Preparation time: -- minutes
-	- Difficulty: ...
+	- Difficulty: [...]
 
 - Ingredients:
 	- X Apples
